@@ -1,0 +1,15 @@
+:Q
+WQ
+EXIT
+EXIT
+:wq
+:wq!
+exit
+
+
+
+
+
+
+
+:qq
